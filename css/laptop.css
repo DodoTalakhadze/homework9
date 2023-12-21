@@ -14,6 +14,9 @@
 .section2{
     padding-inline: 92px;
 }
+.card_cont{
+    justify-content: center;
+}
 /* section3  */
 .section3{
     padding-inline: 92px;
@@ -25,6 +28,9 @@ row-gap: 20px;
 .photo_Cont div{
     flex-direction: row;
     column-gap: 20px;
+}
+.sect3_div2 img{
+    width: 100%;
 }
 }
 
@@ -44,5 +50,8 @@ row-gap: 20px;
 }
 .section3{
     padding-inline: 67px;
+}
+.sect3_div2 img{
+    width: 100%;
 }
 }

@@ -40,6 +40,9 @@ h3{
 .section3 {
     padding-inline: 14px;
 }
+.sect3_div2{
+    flex-wrap: wrap;
+}
   }
 
   
