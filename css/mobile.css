@@ -43,6 +43,12 @@ h3{
 .sect3_div2{
     flex-wrap: wrap;
 }
+.sect3_div1{
+    width: 375px;
+  }
+  .sect3_div2{
+    width: 375px;
+  }
   }
 
   

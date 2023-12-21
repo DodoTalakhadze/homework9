@@ -122,16 +122,12 @@ h3 {
 .section3 {
   padding-inline: 130px;
   margin: 0 auto 130px;
-
 }
 .photo_Cont {
   display: flex;
   column-gap: 20px;
   justify-content: center;
   align-items: center;
-  flex-shrink: 0;
-
-
 }
 .photo_Cont div {
   display: flex;
@@ -140,6 +136,12 @@ h3 {
 }
 .img_cont{
 width: 100%;
+}
+.sect3_div1{
+  width: 780px;
+}
+.sect3_div2{
+  width: 380px;
 }
 
 /* footer  */
